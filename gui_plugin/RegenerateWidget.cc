@@ -1,4 +1,5 @@
 #include <sstream>
+#include <boost/algorithm/string.hpp>
 #include <gazebo/msgs/msgs.hh>
 #include "RegenerateWidget.hh"
 
